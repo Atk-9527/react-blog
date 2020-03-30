@@ -1,0 +1,51 @@
+body {
+  background-color: #f6f6f6;  
+}
+
+.comm-left {
+  background-color: (255, 255, 255, 0);
+  padding:.3rem;
+  margin: 0 0 .5rem 0;
+}
+.comm-right {
+  padding: 0.3rem;
+}
+.comm-box{
+  background-color: #FFF;
+  margin-left: .5rem;
+  padding:.3rem;
+  border-radius: .5rem;
+  border:1px solid #eee;
+  margin: 0 0 .5rem 0;
+}
+.comm-main{
+  margin-top: .5rem;
+}
+
+.list-title p{
+  font-size:1.3rem;
+  color: #1e90ff;
+}
+.list-title p:hover {
+  cursor: pointer;
+}
+.list-context{
+  color:#777;
+  padding:.5rem;
+}
+.list-icon{
+  padding:.5rem 0;
+  color:#AAA;
+}
+.list-icon span{
+  display: inline-block;
+  padding: 0 10px;
+}
+.ant-card {
+  margin: 0 0 .5rem 0;
+  border-radius: .5rem;
+}
+
+.list-context {
+  overflow: hidden;
+}

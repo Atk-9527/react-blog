@@ -1,0 +1,46 @@
+.header {
+    padding: .4rem;
+    overflow: hidden;
+    height: 3.5rem;
+    border-bottom: 1px solid #cccccc;
+    box-shadow: 0rem .25rem 1.875rem grey;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(134, 134, 134, 0.3);
+}
+
+.header-logo {
+    color: #1e90ff;
+    font-size: 1.4rem;
+    text-align: left;
+}
+
+.header-text {
+    font-size: .6rem;
+    color: #999999;
+    padding-left: .3rem;
+    display: inline-block;
+}
+
+.header-menu {
+    font-size: .6em;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.ant-menu {
+    line-height: 2.8rem;
+}
+
+.ant-menu-item {
+    font-size: 1rem !important;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.head-picture {
+    background-image: url(http://localhost:7002/app/app/public/admin/origin/head-picture.jpg);
+    height: 20vh;
+    width: 100%;
+    position: relative;
+  }
